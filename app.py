@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
-BYBIT_KLINES = "https://api.bybit.com/v5/market/kline"
+BYBIT_KLINES = "https://api.bybit.ae/v5/market/kline"
 
 st.set_page_config(page_title="BTCUSDT 5m AI Entry Bot", layout="wide")
 
